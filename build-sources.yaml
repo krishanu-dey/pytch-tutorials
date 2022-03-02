@@ -1,8 +1,3 @@
-- name: Hello world!
-  branch_name: bn/hello-01
-  dir_name: hello
-  commit_id: ab85a3e804d58ba83ed2944facbc87eb265fd156
-
 - name: Hello world with Flask!
   branch_name: bn/hello-flask
   dir_name: hello-flask
