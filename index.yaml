@@ -1,16 +1,4 @@
 # Which tutorials to present in the start-up "List of tutorials" tab.
 
-- name: Hello world!
-  tip-commit: bn/hello-01
-- name: Chase!
-  tip-commit: gs/chase-04
-- name: Catch the apple
-  tip-commit: bn/catch-apple-02
-- name: Q*bert
-  tip-commit: bn/qbert-04
-- name: Bunner
-  tip-commit: gs/bunner-04
-- name: Boing
-  tip-commit: bn/boing-05
-- name: Ticket vending machine
-  tip-commit: bn/ticket-vending-machine-01
+- name: Hello world with Flask!
+  tip-commit: bn/hello-flask
