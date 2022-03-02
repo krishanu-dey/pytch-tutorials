@@ -1,4 +1,4 @@
 # Which tutorials to present in the start-up "List of tutorials" tab.
 
 - name: Hello world with Flask!
-  tip-commit: bn/hello flask
+  tip-commit: bn/hello-flask
