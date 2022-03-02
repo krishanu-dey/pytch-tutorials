@@ -2,27 +2,8 @@
   branch_name: bn/hello-01
   dir_name: hello
   commit_id: ab85a3e804d58ba83ed2944facbc87eb265fd156
-- name: Chase!
-  branch_name: gs/chase-04
-  dir_name: chase
-  commit_id: c003bea15ae1ff85b20f27ea9bd2ffc18ef3046c
-- name: Catch the apple
-  branch_name: bn/catch-apple-02
-  dir_name: catch-apple
-  commit_id: 212e9d22dd4efd7b5b41bd2a101df4486929e5fc
-- name: Q*bert
-  branch_name: bn/qbert-04
-  dir_name: qbert
-  commit_id: 060c9e5c579cd6b43a43af7b12c753c5fab25dad
-- name: Bunner
-  branch_name: gs/bunner-04
-  dir_name: bunner
-  commit_id: 240ddd140e7eb8ac9ff48f899f0d83dd654e02f1
-- name: Boing
-  branch_name: bn/boing-05
-  dir_name: boing
-  commit_id: 5c7e35d43e423271be7f9a8730eb452e54c01888
-- name: Ticket vending machine
-  branch_name: bn/ticket-vending-machine-01
-  dir_name: ticket-vending-machine
-  commit_id: 157ff89db4b322397d22adeb66db7b7d63a96557
+
+- name: Hello world with Flask!
+  branch_name: bn/hello-flask
+  dir_name: hello-flask
+  commit-id: 8c0c549cd6083c7f369fde970e5972e511181880
