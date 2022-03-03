@@ -2,3 +2,5 @@
 
 - name: Hello world with Flask!
   tip-commit: kd/flask
+- name: Flask for Demo!
+  tip-commit: demo
