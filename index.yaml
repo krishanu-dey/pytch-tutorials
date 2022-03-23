@@ -4,5 +4,7 @@
   tip-commit: kd/flask
 - name: URL Routing in Flask
   tip-commit: kd/routing
+- name: Variable URL Rules
+  tip-commit: kd/variable-rules
 - name: Flask for Demo!
   tip-commit: demo
