@@ -8,5 +8,7 @@
   tip-commit: kd/http
 - name: Variable URL Rules
   tip-commit: kd/variable-rules
+- name: Throwing Errors
+  tip-commit: kd/errors
 - name: Flask for Demo!
   tip-commit: demo
