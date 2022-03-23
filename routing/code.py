@@ -8,7 +8,7 @@ def signup():
     return """
                 <h1> Sign Up Page </h1>
                 <i>this is the sign up page</i><br> <br> 
-                <a href='/login'> Login </a> | <a href='/> Homepage </a><br> 
+                <a href='/login'> Login </a> | <a href='/'> Homepage </a><br> 
             """
 
 @app.route("/login")
@@ -17,7 +17,7 @@ def signup():
     return """
                 <h1> Login Page </h1>
                 <i>this is the login page</i><br> <br>
-                <a href='/signup'> Signup </a> | <a href='/> Homepage </a><br> 
+                <a href='/signup'> Signup </a> | <a href='/'> Homepage </a><br> 
             """
 
 @app.route("/")
