@@ -1,6 +1,6 @@
 # Which tutorials to present in the start-up "List of tutorials" tab.
 
-- name: hello
+- name: Hello World with Flask!
   tip-commit: hello
 - name: URL Routing in Flask
   tip-commit: kd/routing
