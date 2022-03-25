@@ -7,3 +7,6 @@ def home():
 	print("home here")
 	return "this is the home page"
 
+if __name__ == '__main__':
+   app.run()
+
