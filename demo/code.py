@@ -56,8 +56,6 @@ def result():
 def redirect_to_home():
     return redirect(url_for("home"))
 
-app.add_url_route('/r', result, result)
-
 @app.route('/blog/<user>/<int:postID>/<float:weight>')
 def dynamic(user, postID, weight):
     return f"this user {user} with ID {postID} and weight {weight} kg"
